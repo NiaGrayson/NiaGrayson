@@ -7,7 +7,7 @@
 
 - 👩🏽‍🏭 I'm currently working on [My Portfolio Website](https://niagrayson.github.io/Nia_TheSoftwareEngineer/)
 
-- 🌜💭 My Dream Job is **Software Engineer at Disney**
+- 🌜💭 My Dream Job is **Software Engineer @ Disney**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
