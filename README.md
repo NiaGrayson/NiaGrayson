@@ -5,7 +5,7 @@
 
 - 🎉 Fun fact **I love animals**
 
-- 👩🏽‍🏭 I'm currently working on [My Portfolio Website](https://niagrayson.github.io/Nia_TheSoftwareEngineer/)
+- 👩🏽‍🏭 I'm currently working on [My Portfolio Website](https://niathesoftwareengineer.com/)
 
 - 🌜💭 My Dream Job is **Software Engineer @ Disney**
 
