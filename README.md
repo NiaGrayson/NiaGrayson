@@ -1,3 +1,4 @@
+(assets/css/Mystical Roses Banner.png)
 <h1 align="center">Hi there 👋🏽, I'm Nia</h1>
 <h3 align="center">A passionate Technology Professional transitioning to Software Engineering. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.</h3>
 
