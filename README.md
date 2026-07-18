@@ -1,11 +1,13 @@
 <h1 align="center">Hi there 👋🏽, I'm Nia</h1>
 <h3 align="center">A passionate Technology Professional transitioning to Software Engineering. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.</h3>
 
-- - 🎉 Fun fact **I love animals** **I love animals**
+- 🌱 I’m currently learning **HTML, CSS, Javascript, typescript and Ruby**
 
 - 👩🏽‍🏭 I'm currently working on [My Portfolio Website](https://niathesoftwareengineer.com/)
 
 - 🌜💭 My Dream Job is **Software Engineer @ Disney**
+
+- 🎉 Fun fact **I love animals** **I love animals**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
