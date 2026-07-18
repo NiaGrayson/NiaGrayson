@@ -1,5 +1,4 @@
-(assets/css/Mystical Roses Banner.png)
-<h1 align="center">Hi there 👋🏽, I'm Nia</h1>
+src="https://github.com/NiaGrayson/NiaTheSoftwareEngineer.github.io/blob/main/assets/css/Mystical%20Roses%20Banner.png"> <img 
 <h3 align="center">A passionate Technology Professional transitioning to Software Engineering. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.</h3>
 
 - 🌱 I’m currently learning HTML, CSS, Javascript and Ruby **HTML, CSS, Javascript, Typescript and Ruby**
